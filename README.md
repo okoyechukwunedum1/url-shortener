@@ -1,8 +1,8 @@
-# 🔗 URL Shortener
+#  URL Shortener
 
 A simple, fast, and beginner-friendly URL shortener built with **Go**, **Gin**, **PostgreSQL**, and **Redis**.
 
-## ✨ Features
+##  Features
 
 - ✅ **Shorten URLs** — Convert long URLs into short Base62 codes
 - ✅ **Redirect** — Instant redirection to original URLs
@@ -13,7 +13,7 @@ A simple, fast, and beginner-friendly URL shortener built with **Go**, **Gin**, 
 - ✅ **Health Check** — `GET /health` endpoint for monitoring
 - ✅ **Unit Tests** — Comprehensive test coverage
 
-## 🏗️ Architecture
+##  Architecture
 
 ```mermaid
 graph LR
